@@ -1,1 +1,7 @@
 Flask
+Numpy
+Pandas
+Matplotlib
+Seaborn
+scikit-learn
+Plotly
